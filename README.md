@@ -13,3 +13,15 @@
 #### Operation systems
 ![Manjaro](https://img.shields.io/badge/Manjaro-35BF5C?style=for-the-badge&logo=Manjaro&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+
+### 
+
+![Akumaru-san's GitHub stats](https://github-readme-stats.vercel.app/api?username=akumaru-san&count_private=true&show_icons=true&theme=dark)
+
+
+#### Working at Parogram
+![Parogram](https://github-readme-stats.vercel.app/api/pin/?username=akumaru-san&repo=parogram)
+
+
+### Most used languages
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akumaru-san)](https://github.com/anuraghazra/github-readme-stats)
