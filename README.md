@@ -22,3 +22,4 @@
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akumaru-san&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+### You can find me on [LinkedIn](https://www.linkedin.com/mwlite/in/akmal-isakulov-b88676216)
